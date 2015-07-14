@@ -1,0 +1,24 @@
+{
+  "author": "Online-Lab Inc.",
+  "name": "seo.online-lab.ru",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Online-Lab/seo",
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.github.com/ngbp/ngbp/master/LICENSE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Online-Lab/seo.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x",
+    "gzippo": "~0.2.0"
+  },
+  "devDependencies": {
+  }
+}
